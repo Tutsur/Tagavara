@@ -1,0 +1,5 @@
+[user]
+	email = ktiitsaar@gmail.com
+	name = Kai Tiitsaar
+[core]
+	editor = C:\\Users\\Kai\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe
