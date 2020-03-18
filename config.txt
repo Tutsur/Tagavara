@@ -1,5 +1,7 @@
 [user]
 	email = ktiitsaar@gmail.com
-	name = Kai Tiitsaar
 [core]
 	editor = C:\\Users\\Kai\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe
+
+Ignoreerimised
+*.class - juba kompileeritud kood,seda pole vaja saata kui kood juba nagunii on salvestatud
