@@ -3,5 +3,5 @@
 [core]
 	editor = C:\\Users\\Kai\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe
 
-Ignoreerimised
+Ignoreerimised lisan siia
 *.class - juba kompileeritud kood,seda pole vaja saata kui kood juba nagunii on salvestatud
